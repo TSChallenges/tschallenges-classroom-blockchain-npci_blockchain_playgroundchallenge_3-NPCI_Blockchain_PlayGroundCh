@@ -137,4 +137,4 @@ This project demonstrates a blockchain-based bank loan management system using H
 ---
 
 ## Submission
-Commit your completed code to the GitHub Classroom repository provided in your assignment link.
+Once done, commit and push your changes to this remote GitHub repository.
